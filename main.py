@@ -1,5 +1,5 @@
 import customtkinter as ctk
-import temperature as tmp
+import temp as tmp
 
 
 ctk.set_appearance_mode("dark")
